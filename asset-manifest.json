@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web-Service-Practice/static/css/main.3cf2034b.css",
+    "main.js": "/Web-Service-Practice/static/js/main.20ef9de7.js",
+    "index.html": "/Web-Service-Practice/index.html",
+    "main.3cf2034b.css.map": "/Web-Service-Practice/static/css/main.3cf2034b.css.map",
+    "main.20ef9de7.js.map": "/Web-Service-Practice/static/js/main.20ef9de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf2034b.css",
+    "static/js/main.20ef9de7.js"
+  ]
+}
