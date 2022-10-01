@@ -48,6 +48,7 @@ export default function Home() {
             // 전달 param과 받는 param의 1대1 대응이 될 필요는 없음
             <Movie
               key={movie.id}
+              id={movie.id}
               coverImg={movie.medium_cover_image}
               title={movie.title}
               summary={movie.summary}
